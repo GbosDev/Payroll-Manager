@@ -1,5 +1,5 @@
-📋 PayrollMaster
-  Sistema de folha de pagamento em Java para gerenciar trabalhadores, contratos e cálculos de salários.
+📋 PayrollMaster<br>
+- Sistema de folha de pagamento em Java para gerenciar trabalhadores, contratos e cálculos de salários.
 
 🔧 Funcionalidades
 - Cadastro de trabalhadores e departamentos
