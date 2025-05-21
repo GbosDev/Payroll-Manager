@@ -11,13 +11,13 @@
 - Estrutura modular (entidades bem definidas)
 
 ⚡ Como Usar
-- Clone o projeto:
-  bash
+- Clone o projeto:<br>
+  bash<br>
   git clone https://github.com/seu-usuario/PayrollMaster.git
 
-- Execute:
-  bash
-  cd src/
+- Execute:<br>
+  bash<br>
+  cd src/<br>
   javac Application/Program.java && java Application.Program
 
 📌 Exemplo
