@@ -20,11 +20,11 @@
   cd src/<br>
   javac Application/Program.java && java Application.Program
 
-📌 Exemplo
-Departamento: Vendas  
-Trabalhador: Maria (PLENO)  
-Contratos: 2 horas extras (R$ 50/h)  
-Ganhos 05/2024: R$ 4200.00  
+📌 Exemplo<br>
+ Departamento: Vendas  
+ Trabalhador: Maria (PLENO)  
+ Contratos: 2 horas extras (R$ 50/h)  
+ Ganhos 05/2024: R$ 4200.00  
 
 📄 Licença
 MIT © Gabriel Souza
